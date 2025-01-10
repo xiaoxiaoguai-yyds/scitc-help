@@ -78,7 +78,7 @@
 
 ## 联系方式 📞
 - 👥 开发者QQ：2456993017
-- 🏠 项目主页：https://github.com/xiaoxiaoguai233/scitc-app
+- 🏠 项目主页：[https://github.com/xiaoxiaoguai233/scitc-app](https://github.com/xiaoxiaoguai-yyds/scitc-help)
 
 ## 更新日志 📋
 
